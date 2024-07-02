@@ -8,7 +8,7 @@ import {
   useColorModeValue,
   VisuallyHidden,
 } from "@chakra-ui/react";
-import { FaInstagram, FaSnapchat, FaGithub } from "react-icons/fa";
+// import { FaInstagram, FaSnapchat, FaGithub } from "react-icons/fa"/;
 import logo from "./../../Assets/logo.png";
 
 const SocialButton = ({ children, label, href }) => {

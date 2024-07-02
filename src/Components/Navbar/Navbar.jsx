@@ -9,7 +9,7 @@ import {
   Stack,
   Button,
 } from "@chakra-ui/react";
-import { HamburgerIcon, CloseIcon, MoonIcon, SunIcon } from "@chakra-ui/icons";
+import {  CloseIcon, MoonIcon, SunIcon } from "@chakra-ui/icons";
 import { IoMdMenu } from "react-icons/io";
 import { Link as ReachLink } from "react-router-dom";
 import logo from "./../../Assets/logo.png";
