@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Resume-Buyilder/static/css/main.dd145a76.css",
+    "main.js": "/Resume-Buyilder/static/js/main.10a916ef.js",
+    "static/media/My.JPG": "/Resume-Buyilder/static/media/My.c5982ecade527e108f6e.JPG",
+    "static/media/home-logo.png": "/Resume-Buyilder/static/media/home-logo.3452f3793afaa0470f77.png",
+    "index.html": "/Resume-Buyilder/index.html",
+    "main.dd145a76.css.map": "/Resume-Buyilder/static/css/main.dd145a76.css.map",
+    "main.10a916ef.js.map": "/Resume-Buyilder/static/js/main.10a916ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd145a76.css",
+    "static/js/main.10a916ef.js"
+  ]
+}
