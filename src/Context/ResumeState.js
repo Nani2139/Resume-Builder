@@ -18,7 +18,7 @@ const ResumeState = (props) => {
 
     const initialData = {
         personalData: {
-            profileImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNI3kQLeYMnpy05PhEiuzS1rtRmNVL7VKvwcE4ACmQSQT1rRmUO5mHLyjH-mGHq0ueUQY&usqp=CAU',
+            profileImage: '../Assets/img1.png',
             name: "Your Name",
             summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
             profile: "Work Profile",
@@ -40,7 +40,7 @@ const ResumeState = (props) => {
             workDesc: { wDescription1: "Work Description 1" },
         },
         awardData: {
-            awards: 'Certificate of Appreciation - 2019, Certificate of Appreciation - 2018'
+            awards: 'Certificate of Appreciation - 2024, Certificate of Appreciation - 2023'
         }
     }
 
